@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+  <title>Hugh Harris</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://i.imgur.com/CPGqgkD.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="">
+  <p>Hi! I'm Hugh, a Memphis-based web designer and programmer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
